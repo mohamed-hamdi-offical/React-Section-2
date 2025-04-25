@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+.accordion {
+    border: 1px solid #ccc;
+}
+.accodion-header {
+    background: #bbb;
+    padding: .5em;
+}
+.accordion-content {
+    padding: 0.5em;
+}
+@media  screen and (max-width: 480px) {
+    .flex-box-foods {
+    padding-inline: 2em;
+}
+
+}
+@media  screen and (max-width: 740px) {
+    .flex-box-foods {
+    padding-inline: 1em;
+   
+}
+}
