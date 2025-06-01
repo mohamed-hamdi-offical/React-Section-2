@@ -17,7 +17,7 @@ export default function FoodPage() {
                         <div className="xl:col-span-8 grid xl:grid-cols-4  gap-x-31 h-[5em]  ">
                             <div className="box-foods-items xl:col-span-8 lg:col-span-8 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 sm:gap-3 md:gap-4 xl:pb-6 md:pr-4">
                                 {/* العنصر الأول */}
-                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer transition-all">
+                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer ">
                                     <div className="w-[1.2em] h-[1.2em] sm:w-[1.5em] sm:h-[1.5em] md:w-[1.87em] md:h-[1.87em]">
                                         <img className="object-contain w-full h-full" src="./public/assets/images/french fries (1).png" alt="potato" />
                                     </div>
@@ -25,7 +25,7 @@ export default function FoodPage() {
                                 </div>
 
                                 {/* العنصر الثاني */}
-                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer transition-all">
+                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer ">
                                     <div className="w-[1.5em] h-[1.8em] sm:w-[2em] sm:h-[2.5em] md:w-[2.5em] md:h-[3em]">
                                         <img className="object-contain w-full h-full" src="./public/assets/images/burger straight (1).png" alt="burger" />
                                     </div>
@@ -33,7 +33,7 @@ export default function FoodPage() {
                                 </div>
 
                                 {/* العنصر الثالث */}
-                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer transition-all">
+                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer ">
                                     <div className="w-[1.2em] h-[1.2em] sm:w-[1.5em] sm:h-[1.5em] md:w-[1.87em] md:h-[1.87em]">
                                         <img className="object-contain w-full h-full" src="./public/assets/images/chickens leg.png" alt="chicken" />
                                     </div>
@@ -41,7 +41,7 @@ export default function FoodPage() {
                                 </div>
 
                                 {/* العنصر الرابع */}
-                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-0 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer transition-all">
+                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-0 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer ">
                                     <div className="w-[1.5em] h-[1.5em] sm:w-[2em] sm:h-[2em] md:w-[2.5em] md:h-[2.5em]">
                                         <img className="object-contain w-full h-full" src="./public/assets/images/pizza slice.png" alt="pizza" />
                                     </div>
@@ -49,7 +49,7 @@ export default function FoodPage() {
                                 </div>
 
                                 {/* العنصر الخامس */}
-                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer transition-all">
+                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer ">
                                     <div className="w-[1.2em] h-[1.2em] sm:w-[1.5em] sm:h-[1.5em] md:w-[1.87em] md:h-[1.87em]">
                                         <img className="object-contain w-full h-full" src="./public/assets/images/french fries (1).png" alt="potato" />
                                     </div>
@@ -57,7 +57,7 @@ export default function FoodPage() {
                                 </div>
 
                                 {/* العنصر السادس */}
-                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer transition-all">
+                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer ">
                                     <div className="w-[1.5em] h-[1.8em] sm:w-[2em] sm:h-[2.5em] md:w-[2.5em] md:h-[3em]">
                                         <img className="object-contain w-full h-full" src="./public/assets/images/burger straight (1).png" alt="burger" />
                                     </div>
@@ -65,7 +65,7 @@ export default function FoodPage() {
                                 </div>
 
                                 {/* العنصر السابع */}
-                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer transition-all">
+                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-1 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer ">
                                     <div className="w-[1.2em] h-[1.2em] sm:w-[1.5em] sm:h-[1.5em] md:w-[1.87em] md:h-[1.87em]">
                                         <img className="object-contain w-full h-full" src="./public/assets/images/chickens leg.png" alt="chicken" />
                                     </div>
@@ -73,7 +73,7 @@ export default function FoodPage() {
                                 </div>
 
                                 {/* العنصر الثامن */}
-                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-0 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer transition-all">
+                                <div className="p-1 sm:p-2 text-[0.9em] sm:text-[1em] md:text-[1.25em] font-[400] w-full max-w-[10em] sm:max-w-[10.5em] h-[3em] sm:h-[3.5em] md:h-[4em] flex items-center justify-center gap-0 bg-white rounded-[0.5em] sm:rounded-[0.68em] hover:bg-[#EE57331A] hover:border hover:border-[#EE5733] cursor-pointer ">
                                     <div className="w-[1.5em] h-[1.5em] sm:w-[2em] sm:h-[2em] md:w-[2.5em] md:h-[2.5em]">
                                         <img className="object-contain w-full h-full" src="./public/assets/images/pizza slice.png" alt="pizza" />
                                     </div>
